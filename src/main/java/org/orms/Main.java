@@ -26,7 +26,7 @@ public class Main {
         productService.addProduct(laptop);
         productService.addProduct(shirt);
 
-        // display product by id
+        // display product by ids
         System.out.println(productService.displayProductById("C1"));
 
         // adding stock to inventory
