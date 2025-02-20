@@ -11,6 +11,7 @@ public class Order {
         this.productId = productId;
         this.orderedQty = orderedQty;
         this.address = address;
+        
     }
 
     public String getProductId() {
